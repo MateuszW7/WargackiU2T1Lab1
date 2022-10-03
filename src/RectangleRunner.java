@@ -9,7 +9,7 @@ public class RectangleRunner {
         plot2.setLength(75);
         plot2.setWidth(75);
 
-        int totalArea = plot1.getArea() + plot2.getArea() + plot3.getArea();
+        System.out.println("These 3 plots require " + (plot1.getArea() + plot2.getArea() + plot3.getArea()) + " square feet of land.") ;
 
 
     }
