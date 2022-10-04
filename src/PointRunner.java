@@ -1,4 +1,4 @@
-public class PointTester {
+public class PointRunner {
     public static void main(String[] args) {
         System.out.println("-- TESTING CONSTRUCTORS AND GETTER METHODS --");
         Point p1 = new Point(10, 5);
